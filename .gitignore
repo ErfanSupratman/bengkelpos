@@ -21,4 +21,3 @@ git-svn-diff.py
 application/sessions/*
 license/.licenses
 .vscode
-.vscode/*
