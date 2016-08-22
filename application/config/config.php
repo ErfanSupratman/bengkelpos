@@ -33,7 +33,7 @@ $config['commit_sha1'] = '$Id$';
 | however intranet only installations may not need this so they can set FALSE to improve performance
 |
 */
-$config['ospos_xss_clean'] = TRUE;
+$config['ospos_xss_clean'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -112,7 +112,7 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
-$config['language'] = 'en';
+$config['language'] = 'id';
 
 /*
 |--------------------------------------------------------------------------
@@ -556,5 +556,5 @@ $config['proxy_ips'] = '';
 | This is to enable the statistics for development and feature improvement purposes
 |
 */
-$config['statistics'] = TRUE;
+// $config['statistics'] = TRUE;
 

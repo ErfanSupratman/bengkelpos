@@ -20,3 +20,4 @@ git-svn-diff.py
 *.log
 application/sessions/*
 license/.licenses
+.vscode

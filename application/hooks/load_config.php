@@ -18,7 +18,7 @@ function load_config()
 		// fallback to English if language folder does not exist        
         if(!file_exists('./application/language/' . $language)) 
         {
-        	$language = 'en';
+        	$language = 'id';
         }
 
         $CI->config->set_item('language', $language);
@@ -40,7 +40,7 @@ function load_config()
     }
     else
     {
-        date_default_timezone_set('America/New_York');
+        date_default_timezone_set('Asia/Jakarta');
     }
 
     bcscale($CI->config->item('currency_decimals') + $CI->config->item('tax_decimals'));
