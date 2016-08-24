@@ -559,4 +559,4 @@ $config['proxy_ips'] = '';
 |
 */
 // $config['statistics'] = TRUE;
-
+$config['statistics'] = FALSE;
