@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<base href="<?php echo base_url();?>" />
-	<title>BRS Motor</title>
+	<title>BRS Motor | <?php echo $this->lang->line("module_".$this->router->class) ?></title>
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="<?php echo 'dist/bootswatch/' . (empty($this->config->item('theme')) ? 'flatly' : $this->config->item('theme')) . '/bootstrap.min.css' ?>"/>
 	<?php if ($this->input->cookie('debug') == "true" || $this->input->get("debug") == "true") : ?>

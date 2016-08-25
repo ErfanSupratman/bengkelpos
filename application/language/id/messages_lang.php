@@ -1,14 +1,14 @@
 <?php 
 
-$lang["messages_sms_send"] = "Send SMS";
-$lang["messages_first_name"] = "First name";
-$lang["messages_last_name"] = "Last name";
-$lang["messages_phone"] = "Phone number";
-$lang["messages_phone_placeholder"] = "Mobile Number(s) here...";
-$lang["messages_phone_number_required"] = "Phone number required";
-$lang["messages_message"] = "Message";
-$lang["messages_message_placeholder"] = "Your Message here...";
-$lang["messages_message_required"] = "Message required";
-$lang["messages_multiple_phones"] = "(In case of multiple recipients, enter mobile numbers separated by commas)";
-$lang["messages_successfully_sent"] = "Message successfully sent to: ";
-$lang["messages_unsuccessfully_sent"] = "Message unsuccessfully sent to: ";
+$lang["messages_sms_send"] = "Kirim SMS";
+$lang["messages_first_name"] = "Nama depan";
+$lang["messages_last_name"] = "Nama belakang";
+$lang["messages_phone"] = "Nomor HP";
+$lang["messages_phone_placeholder"] = "Nomor HP disini...";
+$lang["messages_phone_number_required"] = "Nomor HP wajib diisi";
+$lang["messages_message"] = "Pesan";
+$lang["messages_message_placeholder"] = "Pesan Anda disini...";
+$lang["messages_message_required"] = "Pesan wajib diisi";
+$lang["messages_multiple_phones"] = "(Jika SMS ke beberapa nomor, masukkan nomor HP yang dipisah dengan koma)";
+$lang["messages_successfully_sent"] = "Pesan berhasil dikirim ke: ";
+$lang["messages_unsuccessfully_sent"] = "Pesan gagal dikirim ke: ";
