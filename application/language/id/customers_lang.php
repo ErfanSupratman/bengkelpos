@@ -1,7 +1,7 @@
 <?php 
 
 $lang["customers_account_number"] = "Nomor Akun";
-$lang["customers_account_number_duplicate"] = "Nomor akun ini sudah terpakai";
+$lang["customers_account_number_duplicate"] = "Nomor akun sudah terpakai";
 $lang["customers_cannot_be_deleted"] = "Pelanggan yang dipilih tidak bisa dihapus, satu pelanggan atau lebih memiliki penjualan.";
 $lang["customers_company_name"] = "Perusahaan";
 $lang["customers_confirm_delete"] = "Apa Anda yakin mau menghapus pelanggan yang dipilih?";
