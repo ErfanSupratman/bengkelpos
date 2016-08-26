@@ -1,7 +1,7 @@
 <?php 
 
-$lang["module_config"] = "Konfigurasi";
-$lang["module_config_desc"] = "Atur Konfigurasi Toko";
+$lang["module_config"] = "Pengaturan";
+$lang["module_config_desc"] = "Pengaturan Toko";
 $lang["module_customers"] = "Pelanggan";
 $lang["module_customers_desc"] = "Tambah, Ubah, Hapus, dan Cari Pelanggan ";
 $lang["module_employees"] = "Karyawan";

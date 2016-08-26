@@ -2,9 +2,9 @@
 
 $lang["employees_basic_information"] = "Informasi karyawan";
 $lang["employees_cannot_be_deleted"] = "Karyawan yang dipilih tidak bisa dihapus, satu karyawan atau lebih telah memproses penjualan atau apakah Anda ingin menghapus diri sendiri :)";
-$lang["employees_confirm_delete"] = "Apa Anda yakin ingin menghapus karyawan yang dipilih?";
+$lang["employees_confirm_delete"] = "Apa Anda yakin mau menghapus karyawan yang dipilih?";
 $lang["employees_employee"] = "Karyawan";
-$lang["employees_error_adding_updating"] = "Kesalahan menambah/memperbarui karyawan";
+$lang["employees_error_adding_updating"] = "Kesalahan saat menambah/memperbarui karyawan";
 $lang["employees_error_deleting_demo_admin"] = "Anda tidak bisa menghapus demo user admin";
 $lang["employees_error_updating_demo_admin"] = "Anda tidak bisa merubah demo user admin";
 $lang["employees_login_info"] = "Info login karyawan";

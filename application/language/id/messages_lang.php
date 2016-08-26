@@ -9,6 +9,6 @@ $lang["messages_phone_number_required"] = "Nomor HP wajib diisi";
 $lang["messages_message"] = "Pesan";
 $lang["messages_message_placeholder"] = "Pesan Anda disini...";
 $lang["messages_message_required"] = "Pesan wajib diisi";
-$lang["messages_multiple_phones"] = "(Jika SMS ke beberapa nomor, masukkan nomor HP yang dipisah dengan koma)";
+$lang["messages_multiple_phones"] = "(Jika SMS masal, masukkan nomor HP dengan dipisahkan koma)";
 $lang["messages_successfully_sent"] = "Pesan berhasil dikirim ke: ";
 $lang["messages_unsuccessfully_sent"] = "Pesan gagal dikirim ke: ";
