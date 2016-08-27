@@ -35,7 +35,7 @@
 			</div>
 		<?php echo form_close(); ?>
 		
-		<h1>BRS Motor POS 0.8.0</h1>
+		<h1>BRS Motor.. BeReS BOS..</h1>
 	</div>
 </body>
 </html>
