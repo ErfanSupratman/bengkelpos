@@ -35,7 +35,7 @@
 			</div>
 		<?php echo form_close(); ?>
 		
-		<h1>BRS Motor.. BeReS BOS..</h1>
+		<h1>BRS Motor.. BeReS BOS</h1>
 	</div>
 </body>
 </html>
